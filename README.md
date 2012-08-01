@@ -10,6 +10,8 @@ Brainbump
 
 Aeolus as the interface for private cloud + intercae for deploying to public, openstack underneath, openshift for webapp isolation + auto scaling, leaving only the instrumentation an issue possible adaption of infochimps with drop in "collectors" or _something_ ...
 
+http://matahariproject.org/
+
 Contribute
 ----------
 
